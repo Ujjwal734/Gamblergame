@@ -30,10 +30,5 @@ namespace Gamblergame
             }
 
         }
-      /*  public static void Main(string[] args)
-        {
-            Gambling gambler = new Gambling();
-            gambler.Start();
-        }*/
     }
 }
